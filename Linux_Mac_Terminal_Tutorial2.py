@@ -42,7 +42,7 @@ test_file.txt
 #codice per aprire un file dal terminale con il software predefinito
 
 (base) MacBook-di-Federico:TestDir Federico$ cp test_file.txt copy_file.txt
-#codice per copiare un file o una directory  dal terminale
+#codice per copiare un file dal terminale
 
 (base) MacBook-di-Federico:TestDir Federico$ ls
 copy_file.txt	test_file.txt
@@ -62,9 +62,6 @@ SubDir1		copy_file.txt
 
 (base) MacBook-di-Federico:TestDir Federico$ ls SubDir1/
 orig_file.txt
-
-(base) MacBook-di-Federico:TestDir Federico$ mv orig_file.txt ../moved_file.txt
-mv: rename orig_file.txt to ../moved_file.txt: No such file or directory
 
 (base) MacBook-di-Federico:TestDir Federico$ ls
 SubDir1		copy_file.txt
@@ -86,9 +83,6 @@ SubDir1		copy_file.txt	moved_file.txt
 
 (base) MacBook-di-Federico:TestDir Federico$ ls
 SubDir1		moved_file.txt
-
-(base) MacBook-di-Federico:TestDir Federico$ ..
--bash: ..: command not found
 
 (base) MacBook-di-Federico:TestDir Federico$ cd ..
 
