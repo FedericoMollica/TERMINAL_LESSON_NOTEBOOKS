@@ -1,5 +1,11 @@
+'''
 
+LINUX / MAC TERMINAL LESSON COREY SCHAFER
+
+VIDEO 1 
 Linux/Mac Terminal Tutorial: How To Use The find Command
+
+'''
 
 (base) MacBook-di-Federico:~ Federico$ pwd
 /Users/air
