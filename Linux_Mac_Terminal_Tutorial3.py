@@ -1,5 +1,9 @@
 '''
+
+LINUX / MAC TERMINAL LESSON COREY SCHAFER
+
 VIDEO 3
+Linux/Mac Terminal Tutorial: How To Use The find Command
 
 '''
 
