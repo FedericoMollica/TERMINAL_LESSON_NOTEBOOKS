@@ -2,8 +2,8 @@
 
 LINUX / MAC TERMINAL LESSON COREY SCHAFER
 
-VIDEO 1 
-Linux/Mac Terminal Tutorial: How To Use The find Command
+VIDEO 2
+Linux/Mac Terminal Tutorial: Create, Copy, Move, Rename and Delete Files and Directories
 
 '''
 
